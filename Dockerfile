@@ -1,7 +1,3 @@
-
-
-After reading this article I have been able to solve this using a Multi Stage Docker Build. Please see the Docker file below:
-
 # using multistage docker build
 # ref: https://docs.docker.com/develop/develop-images/multistage-build/
     
